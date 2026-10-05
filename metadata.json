@@ -1,0 +1,6 @@
+{
+  "name": "LKPD Proyek IPAS SMK - Energi dan Perubahannya",
+  "description": "Lembar Kerja Peserta Didik (LKPD) berbasis Problem-Based Learning (PBL) dan Scaffolding untuk Proyek IPAS SMK Kelas X materi Energi dan Perubahannya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
